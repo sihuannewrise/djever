@@ -1,1 +1,1 @@
-Проект evermount.ru на Django 1.7.2
+Проект evermount.ru на DO, платформа Django 1.7.2
